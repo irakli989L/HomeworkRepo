@@ -12,7 +12,7 @@ public class Book {
     public Book(){
         this.name = "Harry Potter and the Prisoner of Azkaban";
         this.author = "J.K. Rowling";
-        this.pages = 448;
+        this.pages = 0;
     }
 
     public void displayBookInfo(){
